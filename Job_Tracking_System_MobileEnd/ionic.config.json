@@ -1,0 +1,7 @@
+{
+  "name": "Job_Traching_System_MobileEnd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
